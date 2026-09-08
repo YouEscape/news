@@ -1,6 +1,7 @@
 {
-    "version": 5,
+    "version": 6,
     "text": "Next Action Hour",
+    "event_datetime_utc": "2026-09-27T19:00:00Z",
     "event_date": "September 27th",
     "event_time": "7pm utc / 2pm et",
     "link": "https://www.patreon.com/youescape"
